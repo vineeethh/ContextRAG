@@ -1,0 +1,79 @@
+question,cached_cold,cold_latency_ms,warm_latency_ms,tokens_in,tokens_out,cost_usd,top_score
+What is one example of a background task mentioned in the passage?,False,2792.7,4148.5,1629,76,0.0002009,0.5049819
+Why might background tasks be used in a system?,False,3657.8,3220.6,1709,175,0.0002584,0.9967649
+How do you import and use BackgroundTasks in a path operation function?,False,2966.7,3520.2,1518,204,0.0002538,0.9999994
+What does FastAPI do with the BackgroundTasks parameter in a path operation function?,False,3237.9,2805.3,1516,114,0.0002086,0.9999988
+What types of functions can be used as a background task in FastAPI?,False,2725.4,2640.1,1676,108,0.0002216,0.99960643
+Why is the task function defined with a normal 'def' in the given example?,False,3354.8,2865.9,1633,107,0.0002168,0.99871576
+What method is used to add a background task in a path operation function?,False,2856.7,2914.8,1513,98,0.0002003,0.99999774
+What arguments does the `.add_task()` method receive?,False,2868.0,2801.4,1328,131,0.0001983,0.9999683
+What tool does FastAPI provide to help structure applications?,False,2754.0,0,1269,143,0.0001984,0.9999118
+What is the FastAPI equivalent of Flask's Blueprints?,False,3139.2,4938.2,1174,154,0.0001944,0.9999789
+What is the purpose of using APIRouter in the context of a FastAPI application?,False,4218.4,3831.3,2455,421,0.000456,0.99990976
+Where is the submodule for handling user-related operations located?,False,3399.2,2824.1,3118,113,0.0003683,0.9991573
+How do you create an instance of `APIRouter`?,False,3473.6,2712.1,1823,109,0.0002368,0.9999939
+What is the purpose of importing `APIRouter`?,False,3473.8,2681.0,1840,164,0.000266,0.9997408
+What is the purpose of using `APIRouter` in a FastAPI application?,True,841.4,827.9,0,0,0.0,0.99990976
+Can the variable name for `APIRouter` be customized?,False,3233.7,2511.9,2658,63,0.0002973,0.9996215
+What are some of the important concepts to consider when deploying a FastAPI application?,False,3437.2,2675.1,1535,175,0.000241,0.9999989
+What is the ultimate objective when serving API clients according to the passage?,False,3007.3,2339.4,1455,91,0.000191,0.95506835
+What role does a TLS Termination Proxy play in HTTPS security?,False,3616.9,3117.8,1531,258,0.0002821,0.9990601
+What is necessary for maintaining HTTPS certificates?,False,3296.0,3091.4,1481,273,0.0002846,0.23057307
+Which tools mentioned in the passage automatically handle certificate renewals?,False,2951.4,0,1853,120,0.0002453,0.9914556
+What is a potential advantage of using a cloud service for HTTPS setup?,False,3399.5,12955.0,1705,106,0.0002235,0.87925047
+What is the main topic discussed in the 'Program and Process' section?,False,3395.2,4483.4,1473,183,0.0002388,0.9951137
+Why is it important to understand the difference between a 'process' and a 'program'?,False,4119.8,4961.7,1458,347,0.0003193,0.9994
+What are the different meanings of the word 'program' as described in the passage?,False,3196.9,2881.2,1425,133,0.000209,0.9531008
+What is a program called when it is running on the operating system?,False,2991.8,3050.7,1387,125,0.0002012,0.9984812
+What does CORS stand for and what situation does it describe?,False,3086.4,2436.7,1326,86,0.0001756,0.99797314
+In what scenario is CORS typically involved?,False,3355.1,4349.0,1323,244,0.0002543,0.5034713
+What components make up an origin?,False,3031.3,2981.7,1946,149,0.0002691,0.9049869
+Why are 'http://localhost' and 'http://localhost:8080' considered different origins?,False,2783.3,2744.2,1301,94,0.0001771,0.9999709
+What does declaring the list as a wildcard allow?,False,2897.7,2551.9,2110,119,0.0002705,0.9976769
+Why is it better to specify explicitly the allowed origins?,False,3081.4,0,2098,118,0.0002688,0.9998273
+What are the two pieces of information issued by the server when a user authenticates with Supabase Auth?,False,3298.0,10745.5,5563,84,0.0005983,0.9999987
+Why should tokens be stored in a secure cookie for SSR?,False,2969.3,4062.3,3258,140,0.0003958,0.9991541
+What is contained in the URL during the PKCE flow redirect?,False,2909.9,3991.0,1985,83,0.00024,0.9992505
+How can Supabase client libraries help manage token storage?,False,4623.6,3870.7,3052,155,0.0003827,0.9995345
+What is the purpose of the 'supa-mdx-lint-disable Rule004ExcludeWords' comment in the passage?,False,3948.1,3153.7,1793,282,0.0003203,0.92482364
+What section of the documentation does the passage belong to?,False,3906.9,2538.8,2444,85,0.0002869,1.8342893e-05
+What is a potential issue with using route prefetching in Next.js?,False,3500.5,4238.0,6039,193,0.0007004,0.99999034
+How can you improve the user experience when using Next.js route prefetching?,False,3929.8,2765.1,6075,198,0.0007065,0.9999987
+Why is it not necessary to make the cookies `HttpOnly`?,False,4427.9,2558.9,1402,92,0.0001862,0.999987
+What does the browser-based side of the application need access to?,False,3598.6,3767.5,1722,76,0.0002102,0.9990996
+What platforms does Supabase Auth support for Sign in with Google?,False,4818.6,0,7641,77,0.0008026,0.9999981
+What are the two ways to use Sign in with Google according to the passage?,False,4953.1,9833.8,5127,105,0.0005652,0.99828595
+What is the first step in setting up 'Sign in with Google'?,False,4062.2,4581.6,6988,114,0.0007558,0.9998104
+What is the purpose of configuring 'Audience' in the Google Auth Platform console?,False,3156.0,4178.9,4816,59,0.0005111,0.9370958
+What are the default scopes added for Supabase Auth to access profile data?,False,2993.3,4276.8,5048,133,0.0005713,0.9999976
+What might happen if you add more scopes that are on the sensitive or restricted list?,False,2750.3,2644.1,1531,63,0.0001846,0.9957684
+What is the purpose of setting up a custom domain for your project?,False,3607.3,2845.3,2029,204,0.0003049,0.99580115
+Why is it recommended to verify your application's brand information with Google?,False,3397.1,3155.3,4503,198,0.0005493,0.99989104
+What is required to enable LinkedIn Auth for a Supabase project?,False,3676.9,3252.3,1364,294,0.0002834,0.9999975
+Where should you add the LinkedIn OAuth application credentials for a Supabase project?,False,4140.6,3183.0,1750,242,0.000296,0.9999962
+What are the three main steps to set up LinkedIn logins for an application?,False,3193.7,2822.0,1512,134,0.0002182,0.99999785
+Where should you add the LinkedIn client_id and client_secret for setting up LinkedIn logins?,False,3556.3,0,1963,301,0.0003468,0.9999596
+Where can you access your LinkedIn Developer account?,False,3251.8,9395.3,1487,76,0.0001867,0.99999094
+What is the first step to access your LinkedIn Developer account if you are not logged in?,False,2994.5,3894.4,1516,77,0.0001901,0.99995637
+What is the purpose of the 'Partial path' in the passage?,False,3281.0,4690.7,1339,168,0.0002179,0.085403666
+Which social media provider is mentioned in the passage?,False,3459.4,4275.1,1617,158,0.0002407,0.0123361
+What are the steps to create a LinkedIn OAuth app?,False,3305.2,3261.2,1950,324,0.000357,0.99999774
+What should be ensured under the OAuth 2.0 Scopes section?,False,2715.8,2713.7,1694,113,0.0002259,0.9241418
+What is the first step to enable Notion Auth for a Supabase project?,False,3194.3,2886.9,4001,91,0.0004456,0.9999938
+Where should you add the Notion Application OAuth credentials for enabling Notion Auth?,False,3646.3,2730.7,1397,108,0.0001937,0.99997187
+What are the three main parts involved in setting up Notion logins for an application?,False,3745.9,3029.4,1450,135,0.0002125,0.99999857
+Where can you retrieve your OAuth client ID and OAuth client secret for Notion logins?,False,4032.8,2773.8,1251,116,0.0001831,0.99999535
+What should you do after selecting 'Public integration'?,False,2757.7,0,1629,69,0.0001974,0.99897975
+What is the purpose of adding a redirect URI in the context of this documentation?,False,4037.5,10947.8,1820,109,0.0002365,0.6104535
+Where can you find the 'OAuth client ID' and 'OAuth client secret' for your Notion integration?,False,3131.3,3766.7,1393,112,0.0001953,0.99999917
+What is the first step to add Notion credentials into your Supabase project?,True,1186.4,803.3,0,0,0.0,0.9999938
+What is the purpose of Row Level Security (RLS) policies in a Supabase project with OAuth 2.1?,False,4470.4,3151.4,1681,278,0.0003071,0.9999982
+Do OAuth scopes control access to database tables or API endpoints in Supabase?,False,2935.7,6327.0,1405,135,0.000208,0.99999475
+What type of tokens are issued by Supabase Auth for OAuth?,False,3350.3,3152.0,3223,172,0.0004083,0.9999907
+How do OAuth tokens affect existing RLS policies in Supabase?,False,3703.5,3153.6,1659,298,0.0003149,0.99999774
+What is the purpose of the 'client_id' claim in an OAuth access token?,False,3454.6,2746.0,1968,159,0.0002763,0.99914074
+What information does the 'amr' claim provide in the OAuth access token?,False,3864.0,2970.7,1918,212,0.0002978,0.99209267
+How can you retrieve the client ID from a token in RLS?,False,4318.2,2824.5,2221,243,0.0003436,0.99999785
+What condition can be used to verify if a token is from a specific OAuth client?,False,3957.8,3052.7,1732,140,0.0002432,0.9789554
+What is the main topic discussed in the passage?,False,605643.9,908.8,2259,212,0.0003319,0.00033797944
+What does RLS stand for in the context of the passage?,False,4574.7,780.0,2334,55,0.0002609,0.089136936
